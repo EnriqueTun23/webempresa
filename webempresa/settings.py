@@ -109,7 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
 #SE modifica para poder traducir todo el admin a español
 LANGUAGE_CODE = 'es'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Monterrey'
 
 USE_I18N = True
 
