@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/home/enrique/miniconda3/envs/py36/bin/python",
+    "python.pythonPath": "C:\\Miniconda3\\envs\\Prueba_django\\python.exe",
     "python.linting.pylintEnabled": true
 }

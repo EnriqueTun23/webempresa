@@ -7,3 +7,6 @@
 **migrate** 
 ## crear un usuario
 **admin**
+
+##Recomendacion de librerias
+**pip install django-ckeditor**
